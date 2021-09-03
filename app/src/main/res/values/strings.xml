@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Turismo Tenerife</string>
+    <string name="button_text">Cambiar mensaje</string>
+    <string name="url">jdbc:mysql://192.168.0.42:3306/tenerifedataTurismo?characterEncoding=UTF-8</string>
+    <string name="dbHostName">localhost</string>
+    <string name="dbPort">3306</string>
+    <string name="dbNameYoptions">tenerifedataTurismo?characterEncoding=UTF-8</string>
+    <string name="user">userRead</string>
+    <string name="pass">porzzionne</string>
+    <string name="mediaString">Media</string>
+    <string name="modaString">Moda</string>
+    <string name="okeyButton">Añadir</string>
+    <string name="nullString">0</string>
+    <string name="medianaString">Mediana</string>
+    <string name="desvEstString">Desviación típica</string>
+    <string name="welcomeTextString">Elije conjunto de datos</string>
+</resources>
